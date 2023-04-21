@@ -7,7 +7,7 @@ Basic Nutrition Label (HTML + CSS)
   <meta charset="UTF-8">
   <title>Nutrition Label</title>
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,800" rel="stylesheet">
-  <link href="./styles.css" rel="stylesheet">
+ <link rel="stylesheet" type = "text/css" href="style.css">
 </head>
 
 <body>
