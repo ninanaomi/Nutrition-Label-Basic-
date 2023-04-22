@@ -1,13 +1,10 @@
-# Nutrition-Label-Basic-
-Basic Nutrition Label (HTML + CSS)
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <title>Nutrition Label</title>
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,800" rel="stylesheet">
- <link rel="stylesheet" type = "text/css" href="style.css">
+ <link rel="stylesheet" type="text/css" href="styles/style.css"/>
 </head>
 
 <body>
